@@ -1,0 +1,2 @@
+# next-level-week-06
+Backend do aplicativo NLWValoriza desenvolvido na semana Next Level Week disponibilizado pela RocketSeat. O projeto consiste no envio de tags de elogios entre os usuários com a possibilidade de se enviar também uma mensagem. Para isso, foi utilizado NodeJS com Express, possibilitando cadastro de usuários e tags no banco de dados (SQLite) utilizando o TypeORM e autenticação com JWT. O fluxo de dados e o pattern utilizado foi seguindo a lógica Controller -> Service -> Repository -> DB.
